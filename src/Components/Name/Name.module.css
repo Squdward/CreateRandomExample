@@ -1,0 +1,15 @@
+.Hello {
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.Name {
+  font-size: 30px;
+  line-height: 30px;
+  margin: 10px 0 50px;
+}
+
+.Input {
+  max-width: 300px;
+  margin-bottom: 20px;
+}

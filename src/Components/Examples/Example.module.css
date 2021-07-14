@@ -1,0 +1,16 @@
+.List {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.example {
+  width: calc(50% - 15px);
+  margin-bottom: 20px;
+}
+
+.Button {
+  margin: 0 auto;
+}
